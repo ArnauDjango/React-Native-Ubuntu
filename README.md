@@ -2,7 +2,7 @@
 How to create app with Linux, React native, node
 
 You need:
-- dll node lts version ==> nodejs.org
+- dll node lts version ==> nodejs.org (I prefer use the package manager -> search on other downloads)
 - dll android studio and create android device
 
 alter ~/.bashrc for create a path
@@ -25,11 +25,11 @@ mkdir dirproject
 cd dirproject
 react-native init project 
 ```
-in this directory you can run the app for testin on your phone emulator
+in this directory you can run the app for testing on your phone emulator
 ```
 Adb devices 
 Emulator –list-avds 
-Emulator –avd blablabla 
+Emulator –avd nameOfYourVirtualDevice
 React-native start 
 React-native run-android 
 ```
