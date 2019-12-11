@@ -1,5 +1,5 @@
-# React-Native
-How to create app with Linux, React native, node
+# React Native on Linux Ubuntu
+How to create app with Linux, React native and node
 
 You need:
 - dll node lts version ==> nodejs.org (I prefer use the package manager -> search on other downloads)
