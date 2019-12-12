@@ -13,10 +13,10 @@ export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 ```
-and write "source ~/.bachrc" for update this
-you can test so you path work with this command 'echo $PATH'
+and write "source ~/.bachrc" for update 
+you can test your paths working with command 'echo $PATH'
 
-now you need a **create react project** 
+now you need a **create react native project** 
 
 example:
 ```
