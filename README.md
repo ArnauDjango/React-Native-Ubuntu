@@ -35,7 +35,10 @@ React-native run-android
 ```
 
 create a src directory with your App and your components folder
-  src
-    -->App.js
+```
+src
+    ==>App.js
     -->components
-      -->Simples.js
+        |
+        |-->Simples.js
+```
