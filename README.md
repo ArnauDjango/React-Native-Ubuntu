@@ -33,3 +33,9 @@ Emulator –avd nameOfYourVirtualDevice
 React-native start 
 React-native run-android 
 ```
+
+create a src directory with your App and your components folder
+  src
+    -->App.js
+    -->components
+      -->Simples.js
