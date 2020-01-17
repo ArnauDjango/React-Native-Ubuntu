@@ -7,6 +7,7 @@ You need:
 
 alter ~/.bashrc for create a path
 ```
+/mnt/c/Users/adck/AppData/Local/Android/Sdk/
 export ANDROID_HOME=$HOME/Android/Sdk
 export PATH=$PATH:$ANDROID_HOME/emulator
 export PATH=$PATH:$ANDROID_HOME/tools
